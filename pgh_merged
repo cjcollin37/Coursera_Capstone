@@ -1,0 +1,87 @@
+,Neighborhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,Allegheny Center,40.4529367,-80.0063438,0,Park,Deli / Bodega,Exhibit,Zoo,Bar,Performing Arts Venue,Coffee Shop,Event Space,Museum,Café
+1,Allegheny West,40.452273299999995,-80.0157407,0,Fast Food Restaurant,American Restaurant,Pub,Sandwich Place,Zoo,Coffee Shop,Pharmacy,Exhibit,Food Truck,Café
+2,Allentown,40.4226177,-79.993086,0,Italian Restaurant,Pizza Place,Discount Store,Vegetarian / Vegan Restaurant,Coffee Shop,Yoga Studio,Farmers Market,Event Space,Exhibit,Farm
+3,Arlington,40.415178600000004,-79.97001829999999,1,Cosmetics Shop,American Restaurant,Bar,Ethiopian Restaurant,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+4,Arlington Heights,40.4166594,-79.9624025,2,American Restaurant,Baseball Field,Yoga Studio,Ethiopian Restaurant,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+5,Banksville,40.41069,-80.0386431,0,Park,Yoga Studio,Electronics Store,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market
+6,Bedford Dwellings,40.45049960000001,-79.9745604,0,Men's Store,Home Service,Gym / Fitness Center,Field,Coffee Shop,Park,Ethiopian Restaurant,Food,Flower Shop,Fish Market
+7,Beechview,40.4106249,-80.02477579999999,1,Light Rail Station,Spa,Supermarket,Farmers Market,Taco Place,Bar,Yoga Studio,Flower Shop,Fish Market,Fish & Chips Shop
+9,Bloomfield,40.461758,-79.9495501,0,Bar,Japanese Restaurant,Bookstore,Sandwich Place,New American Restaurant,Grocery Store,Coffee Shop,Bakery,Thai Restaurant,Pizza Place
+10,Bluff,40.4364592,-79.9844596,0,Pizza Place,Rental Car Location,Bar,Snack Place,Food Court,Shop & Service,Gas Station,Chinese Restaurant,Spa,Grocery Store
+11,Bon Air,40.407258899999995,-80.0007365,0,Home Service,Playground,Light Rail Station,Yoga Studio,Electronics Store,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+12,Brighton Heights,40.4778467,-80.0358877,0,Sports Bar,Pizza Place,Bookstore,Park,Yoga Studio,Ethiopian Restaurant,Flower Shop,Fish Market,Fish & Chips Shop,Field
+13,Brookline,40.395739899999995,-80.01422609999999,1,Bar,Lounge,Mediterranean Restaurant,Convenience Store,Sports Bar,Karaoke Bar,Shopping Mall,Flower Shop,Fish Market,Fish & Chips Shop
+14,California Kirkbride,40.4620134,-80.0247762,0,Bakery,Home Service,Electronics Store,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market
+15,Carrick,40.3964583,-79.9903303,0,Pizza Place,Deli / Bodega,Coffee Shop,Bank,Yoga Studio,Ethiopian Restaurant,Food,Flower Shop,Fish Market,Fish & Chips Shop
+16,Central Lawrenceville,40.472348600000004,-79.9538655,0,Café,Bar,Baseball Field,Pub,Boutique,Sports Bar,Italian Restaurant,Restaurant,Diner,Bakery
+17,Central Northside,40.4572459,-80.0069541,0,Deli / Bodega,Pizza Place,Park,Café,Italian Restaurant,Mexican Restaurant,Garden Center,Coffee Shop,Museum,Belgian Restaurant
+18,Central Oakland,40.4386225,-79.9546577,0,Pizza Place,Coffee Shop,Sandwich Place,Chinese Restaurant,Bakery,Dive Bar,Clothing Store,Indian Restaurant,Shipping Store,Burger Joint
+19,Chartiers,40.458012200000006,-80.0706935,2,Baseball Field,Yoga Studio,Ethiopian Restaurant,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market
+20,Chateau,40.4542354,-80.0311989,0,Harbor / Marina,Concert Hall,Arts & Crafts Store,Museum,Baseball Field,Food Truck,Record Shop,Coffee Shop,IT Services,Bike Shop
+21,Crafton Heights,40.444498700000004,-80.05145300000001,1,American Restaurant,Donut Shop,Bar,Yoga Studio,Ethiopian Restaurant,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field
+22,Crawford-Roberts,40.4427831,-79.98359070000001,0,Pizza Place,Coffee Shop,Spa,Sculpture Garden,Sandwich Place,Gas Station,Bank,Discount Store,Theater,Tennis Court
+23,Downtown,40.440439899999994,-80.0058066,0,Italian Restaurant,Sandwich Place,Coffee Shop,Plaza,Steakhouse,History Museum,Gastropub,American Restaurant,Burger Joint,Restaurant
+24,Duquesne Heights,40.4369802,-80.0240019,0,Scenic Lookout,Seafood Restaurant,Construction & Landscaping,Bar,Outdoor Sculpture,Trail,Tunnel,American Restaurant,Italian Restaurant,Farm
+25,East Allegheny,40.455055200000004,-79.9974072,0,Deli / Bodega,Pizza Place,Thrift / Vintage Store,Food,Ice Cream Shop,Italian Restaurant,Brewery,Liquor Store,Burger Joint,Chinese Restaurant
+26,East Carnegie,40.4156247,-80.0753328,0,Intersection,Yoga Studio,Electronics Store,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market
+27,East Hills,40.453720399999995,-79.87495190000001,0,Seafood Restaurant,Accessories Store,Home Service,Yoga Studio,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market
+28,East Liberty,40.4620685,-79.9239522,0,Coffee Shop,Mexican Restaurant,American Restaurant,Noodle House,French Restaurant,Pizza Place,Ice Cream Shop,Gym / Fitness Center,Seafood Restaurant,Big Box Store
+29,Elliott,40.442737,-80.0398464,0,Art Gallery,Discount Store,Baseball Field,Yoga Studio,Ethiopian Restaurant,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field
+30,Esplen,40.4626628,-80.0550733,0,Pizza Place,Bank,New American Restaurant,Business Service,Pharmacy,American Restaurant,Sandwich Place,Grocery Store,Theater,Coffee Shop
+31,Fairywood,40.4503467,-80.08394440000001,0,Bus Station,Gas Station,Dog Run,Yoga Studio,Ethiopian Restaurant,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+32,Fineview,40.4645135,-80.00394240000001,0,Pub,Baseball Field,Theme Park,Golf Course,Moving Target,Park,American Restaurant,Scenic Lookout,Farmers Market,Farm
+33,Friendship,40.462008399999995,-79.934032,0,Coffee Shop,Convenience Store,Grocery Store,Liquor Store,Fried Chicken Joint,New American Restaurant,Gas Station,Rental Car Location,Sandwich Place,American Restaurant
+34,Garfield,40.4671118,-79.9398232,0,Art Gallery,Yoga Studio,Thrift / Vintage Store,Lounge,Pizza Place,Korean Restaurant,Music Venue,New American Restaurant,Noodle House,Tea Room
+35,Glen Hazel,40.4072914,-79.92921750000001,0,Pizza Place,Gym / Fitness Center,Yoga Studio,Electronics Store,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market
+36,Greenfield,40.4216495,-79.94363440000001,0,Playground,Ice Cream Shop,Gift Shop,Yoga Studio,Electronics Store,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+37,Hays,40.3895137,-79.9339397,0,Farm,Yoga Studio,Electronics Store,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market
+38,Hazelwood,40.4131664,-79.93916329999999,2,Baseball Field,Yoga Studio,Ethiopian Restaurant,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market
+39,Highland Park,40.472309499999994,-79.919498,0,Arts & Crafts Store,Japanese Restaurant,Italian Restaurant,American Restaurant,Bar,Thai Restaurant,Grocery Store,Bakery,Coffee Shop,Farm
+40,Homewood North,40.4587845,-79.8900727,1,Bar,Concert Hall,Music Venue,Yoga Studio,Event Space,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field
+41,Homewood South,40.453433700000005,-79.8928719,1,Food,Bank,Music Store,Music Venue,Café,BBQ Joint,Bar,Flower Shop,Fish Market,Fish & Chips Shop
+42,Homewood West,40.459399,-79.9041358,0,Storage Facility,Fried Chicken Joint,Bus Stop,BBQ Joint,Yoga Studio,Ethiopian Restaurant,Flower Shop,Fish Market,Fish & Chips Shop,Field
+43,Knoxville,40.414041,-79.9923717,0,Bank,Mobile Phone Shop,Intersection,Beer Store,Food,Bakery,Thrift / Vintage Store,Fast Food Restaurant,Discount Store,Fish & Chips Shop
+44,Larimer,40.4625688,-79.90838409999999,0,Brewery,Storage Facility,Pet Store,Fried Chicken Joint,Bus Stop,Yoga Studio,Ethiopian Restaurant,Fish Market,Fish & Chips Shop,Field
+46,Lincoln Place,40.3678472,-79.9172723,0,Construction & Landscaping,Pizza Place,Deli / Bodega,Coffee Shop,Electronics Store,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+47,Lower Lawrenceville,40.4645141,-79.9643986,0,Italian Restaurant,Brewery,Yoga Studio,Coffee Shop,Boutique,Food,Greek Restaurant,French Restaurant,Pizza Place,Burger Joint
+48,Manchester,40.4552017,-80.02434129999999,2,Storage Facility,Baseball Field,Yoga Studio,Food Court,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+49,Marshall-Shadeland,40.4703468,-80.0333876,1,Bar,Café,Cocktail Bar,Dog Run,Yoga Studio,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field
+50,Middle Hill,40.4474756,-79.9723934,0,Southern / Soul Food Restaurant,Gym,Coffee Shop,Yoga Studio,Electronics Store,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+51,Morningside,40.4824345,-79.929518,0,Playground,Baseball Field,Electronics Store,Park,Yoga Studio,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+52,Mount Oliver,40.411046500000005,-79.9793123,1,Moving Target,Bar,Yoga Studio,Food Court,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+53,Mount Washington,40.4309025,-80.01033120000001,0,Bar,Scenic Lookout,Diner,Park,Bakery,Liquor Store,Sandwich Place,Sports Bar,Monument / Landmark,Russian Restaurant
+55,North Oakland,40.4470403,-79.9533557,0,Indian Restaurant,Sandwich Place,New American Restaurant,Pizza Place,Bookstore,Bank,Gift Shop,Deli / Bodega,Coffee Shop,Café
+56,North Shore,40.4474127,-80.00786409999999,0,Park,Hotel,Baseball Stadium,Sculpture Garden,Cocktail Bar,Sporting Goods Shop,Sports Bar,Bank,Harbor / Marina,Beer Garden
+57,Northview Heights,40.4784024,-80.000609,1,Construction & Landscaping,Bar,Ethiopian Restaurant,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market
+58,Oakwood,40.42658970000001,-80.0666657,1,Playground,Diner,Bar,Yoga Studio,Ethiopian Restaurant,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field
+59,Overbrook,40.384220299999996,-79.9961442,1,Construction & Landscaping,Pharmacy,Garden Center,Ski Area,Rental Car Location,Bar,American Restaurant,Field,Electronics Store,Farmers Market
+60,Perry North,40.485902200000005,-80.022832,0,Concert Hall,Park,Soccer Field,Dog Run,Cycle Studio,Ethiopian Restaurant,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+61,Perry South,40.4683084,-80.0134748,0,Scenic Lookout,Pool,Grocery Store,Coffee Shop,Bed & Breakfast,Donut Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+62,Point Breeze,40.4527086,-79.9112635,0,Coffee Shop,Italian Restaurant,Park,New American Restaurant,Electronics Store,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+63,Point Breeze North,40.451643100000005,-79.9024488,0,Café,Botanical Garden,Furniture / Home Store,Arts & Crafts Store,Music Venue,Event Space,Food,Flower Shop,Fish Market,Fish & Chips Shop
+64,Polish Hill,40.4554385,-79.9691932,0,Bar,Beer Garden,Gym / Fitness Center,Record Shop,Deli / Bodega,Restaurant,Dive Bar,Storage Facility,Yoga Studio,Farm
+65,Regent Square,40.43285,-79.89405,0,Bar,Park,Restaurant,Indie Movie Theater,Miscellaneous Shop,Thai Restaurant,Café,Athletics & Sports,Trail,Hot Dog Joint
+66,Ridgemont,40.430117200000005,-80.03448780000001,0,Steakhouse,Diner,Intersection,Yoga Studio,Electronics Store,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+67,Shadyside,40.4515181,-79.9365458,0,Hotel,Coffee Shop,Clothing Store,Yoga Studio,French Restaurant,Gastropub,Italian Restaurant,Japanese Restaurant,Jewelry Store,Juice Bar
+68,Sheraden,40.456705,-80.0560774,0,Fried Chicken Joint,Yoga Studio,Electronics Store,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market,Farm
+69,South Oakland,40.433262799999994,-79.959869,0,Theater,Pizza Place,Hotel,Bakery,Donut Shop,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+70,South Shore,40.4370637,-80.0114619,0,History Museum,Boat or Ferry,Scenic Lookout,Soccer Stadium,Hotel,Skating Rink,Electronics Store,Fish Market,Fish & Chips Shop,Field
+71,South Side Flats,40.4293837,-79.9903144,0,Dive Bar,Bar,Sandwich Place,Pizza Place,Rock Club,Sports Bar,Clothing Store,Football Stadium,Ice Cream Shop,Beer Store
+72,South Side Slopes,40.4245136,-79.9761635,0,Bar,Thai Restaurant,Mexican Restaurant,Pizza Place,Salon / Barbershop,Speakeasy,Spanish Restaurant,Spa,Italian Restaurant,Smoke Shop
+73,Spring Garden,40.4689579,-79.9869975,1,Brewery,Gym,Discount Store,Café,Bar,Yoga Studio,Event Space,Flower Shop,Fish Market,Fish & Chips Shop
+74,Spring Hill-City View,40.466729799999996,-79.9939292,0,Playground,Brewery,Moving Target,Garden,Baseball Field,Yoga Studio,Event Space,Fish Market,Fish & Chips Shop,Field
+75,Squirrel Hill North,40.4435224,-79.9307556,0,Nightclub,Playground,Community Center,Dance Studio,Pharmacy,Yoga Studio,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+76,Squirrel Hill South,40.4283903,-79.917277,0,Tunnel,Park,Szechuan Restaurant,Seafood Restaurant,Sports Bar,Bar,Smoke Shop,American Restaurant,Playground,Fast Food Restaurant
+77,Stanton Heights,40.4814066,-79.9375723,0,Restaurant,Snack Place,Farm,Baseball Field,Yoga Studio,Electronics Store,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+78,Strip District,40.453958,-79.9842195,0,Grocery Store,Bakery,Coffee Shop,Seafood Restaurant,Bar,Italian Restaurant,Market,Diner,Gourmet Shop,Clothing Store
+79,Summer Hill,40.4878468,-80.007276,0,American Restaurant,Clothing Store,Baseball Field,Yoga Studio,Ethiopian Restaurant,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field
+80,Swisshelm Park,40.420803,-79.9061188,0,Playground,Department Store,Yoga Studio,Ethiopian Restaurant,Food,Flower Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+81,Terrace Village,40.4431862,-79.97038470000001,0,Pool,Gym / Fitness Center,Gym,Coffee Shop,Donut Shop,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market
+82,Troy Hill,40.4689579,-79.97866390000002,1,Tennis Court,Gym / Fitness Center,River,Café,Bar,Yoga Studio,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant
+83,Upper Hill,40.4530683,-79.9598233,0,Hotel,Gym,BBQ Joint,Park,Yoga Studio,Electronics Store,Flower Shop,Fish Market,Fish & Chips Shop,Field
+84,Upper Lawrenceville,40.4820374,-79.9510248,0,Brewery,Pet Store,Gourmet Shop,Smoke Shop,Farmers Market,Juice Bar,Chinese Restaurant,Coffee Shop,Bar,Tattoo Parlor
+85,West End,40.4409185,-80.03406590000002,0,Theater,Italian Restaurant,Speakeasy,Café,Deli / Bodega,Antique Shop,French Restaurant,Baseball Field,Farmers Market,Exhibit
+86,West Oakland,40.4406635,-79.9646426,0,Pizza Place,Hotel,College Gym,Coffee Shop,Baseball Field,Food Service,Bank,Thai Restaurant,Bakery,Sandwich Place
+87,Westwood,40.4330251,-80.0478444,0,Pool,Video Store,Grocery Store,Beer Store,Baseball Field,Yoga Studio,Electronics Store,Fish Market,Fish & Chips Shop,Field
+88,Windgap,40.456196500000004,-80.07578120000001,1,Food,Ice Cream Shop,Baseball Field,Bar,Yoga Studio,Event Space,Food & Drink Shop,Flower Shop,Fish Market,Fish & Chips Shop
